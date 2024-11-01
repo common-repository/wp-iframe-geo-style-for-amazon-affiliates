@@ -1,0 +1,693 @@
+/* START DEFAULT TEMPLATE */
+.wpigsfaa_default {
+	border: 1px solid #eeeeee;
+	padding: 30px;
+	display: flex;
+	flex-flow: wrap;
+	justify-content: center;
+	background-color: #ffffff;
+	min-width: 300px;
+	border-radius: 6px;
+
+}
+
+.wpigsfaa_ac_img_box_default {
+	text-align:center;
+	width:200px;
+	min-width: 150px;
+}
+
+.wpigsfaa_ac_img_default img {
+	max-height:200px;
+}
+
+.wpigsfaa_ac_body_default {
+	margin-left: 10px;
+}
+
+.wpigsfaa_ac_price_default{
+	font-weight: bold;
+	color: #B12704;
+	font-size: 1.1em;
+	text-transform: lowercase;
+	padding-top: 0.8em;
+	padding-bottom: 0.8em;
+}
+
+.wpigsfaa_default h5 {
+	margin: 0px !important;
+}
+
+
+.wpigsfaa_default h5 a{
+	text-decoration: none;
+	color: #212121;
+
+}
+
+
+.wpigsfaa_default h5 a:hover {
+	color: #222222;
+}
+
+
+.wpigsfaa_ac_button_default {
+	background-color:#FFA724;
+	border:1px solid #222222;
+	display:block;
+	cursor:pointer;
+	color:#212121;
+	font-size:18px;
+	font-weight:bold;
+	padding:5px;
+	text-decoration:none;
+	text-align: center;
+	border-radius: 6px;
+}
+
+.wpigsfaa_ac_button_default:hover {
+	background-color: #FEBD69;
+	border:1px solid #222222;
+	cursor:pointer;
+}
+
+
+.wpigsfaa_ac_logo_default img{
+	display: block !important;
+	text-align: center !important;
+	padding: 5px;
+	margin: auto;
+}
+
+.wpigsfaa_ac_logo_default a{
+	display: block !important;
+	text-align: center !important;
+}
+
+
+@media screen and (min-width: 680px) {
+    .wpigsfaa_default {
+      display: flex;
+      flex-flow: nowrap !important;
+      justify-content: center;
+    }
+  }
+
+/* END DEFAULT TEMPLATE */
+
+/* START APPLE TEMPLATE */
+.wpigsfaa_apple {
+	border: 1px solid #212121;
+	padding: 30px;
+	display: flex;
+	flex-flow: wrap;
+	justify-content: center;
+	background-color: #87C540;
+	min-width: 300px;
+
+}
+
+.wpigsfaa_ac_img_box_apple {
+	text-align:center !important;
+	width:200px;
+	min-width: 150px;
+	background-color: #ffffff;
+}
+
+.wpigsfaa_ac_img_apple img {
+	max-height:200px;
+}
+
+.wpigsfaa_ac_body_apple {
+	margin-left: 10px;
+}
+
+.wpigsfaa_ac_price_apple{
+	font-weight: bold;
+	color: #fff;
+	font-family: 'Arial' !important;
+	font-size: 1.1em;
+	text-transform: lowercase;
+	padding-top: 0.8em;
+	padding-bottom: 0.8em;
+}
+
+.wpigsfaa_apple h5 {
+	margin: 0px !important;
+}
+
+
+.wpigsfaa_apple h5 a{
+	text-decoration: none;
+	color: #212121;
+	font-family: 'Arial';
+
+}
+
+
+.wpigsfaa_apple h5 a:hover {
+	color: #111111;
+}
+
+
+.wpigsfaa_ac_button_apple {
+	background-color:green;
+	border:1px solid #ffffff;
+	display:block;
+	cursor:pointer;
+	color:#ffffff;
+	font-size:18px;
+	font-weight: bold;
+	padding:10px;
+	text-decoration:none;
+	text-align: center;
+}
+
+.wpigsfaa_ac_button_apple:hover {
+	background-color: #4CAF50;
+	border:1px solid #ffffff;
+	color:#ffffff;
+	cursor:pointer;
+}
+
+
+.wpigsfaa_ac_logo_apple img{
+	display: block !important;
+	text-align: center !important;
+	padding: 5px;
+	margin: auto;
+}
+
+.wpigsfaa_ac_logo_apple a{
+	display: block !important;
+	text-align: center !important;
+}
+
+
+@media screen and (min-width: 680px) {
+    .wpigsfaa_apple {
+      display: flex;
+      flex-flow: nowrap !important;
+      justify-content: center;
+    }
+  }
+
+/* END APPLE TEMPLATE */
+
+
+
+/* START MODERN TEMPLATE */
+.wpigsfaa_modern {
+	border: 1px solid #212121;
+	padding: 30px;
+	display: flex;
+	flex-flow: wrap;
+	justify-content: center;
+	background-color: #ffffff;
+	min-width: 300px;
+
+}
+
+.wpigsfaa_ac_img_box_modern {
+	text-align:center;
+	width:200px;
+	min-width: 150px;
+}
+
+.wpigsfaa_ac_img_modern img {
+	max-height:200px;
+}
+
+.wpigsfaa_ac_body_modern {
+	margin-left: 10px;
+}
+
+.wpigsfaa_ac_price_modern{
+	font-weight: bold;
+	color: #CD2653;
+	font-family: 'Helvetica' !important;
+	font-size: 1.1em;
+	text-transform: lowercase;
+	padding-top: 0.8em;
+	padding-bottom: 0.8em;
+}
+
+.wpigsfaa_modern h5 {
+	margin: 0px !important;
+}
+
+
+.wpigsfaa_modern h5 a{
+	text-decoration: none;
+	color: #212121;
+	font-family: 'Helvetica';
+
+}
+
+
+.wpigsfaa_modern h5 a:hover {
+	color: #222222;
+}
+
+
+.wpigsfaa_ac_button_modern {
+	background-color:#FFA724;
+	border:1px solid #222222;
+	display:block;
+	cursor:pointer;
+	color:#222222;
+	font-size:18px;
+	font-weight:bold;
+	padding:5px;
+	text-decoration:none;
+	text-align: center;
+}
+
+.wpigsfaa_ac_button_modern:hover {
+	background-color: green;
+	border:1px solid #222222;
+	color:#ffffff;
+	cursor:pointer;
+}
+
+
+.wpigsfaa_ac_logo_modern img{
+	display: block !important;
+	text-align: center !important;
+	padding: 5px;
+	margin: auto;
+}
+
+.wpigsfaa_ac_logo_modern a{
+	display: block !important;
+	text-align: center !important;
+}
+
+
+@media screen and (min-width: 680px) {
+    .wpigsfaa_modern {
+      display: flex;
+      flex-flow: nowrap !important;
+      justify-content: center;
+    }
+  }
+
+/* END MODERN TEMPLATE */
+
+
+/* START RED WINE TEMPLATE */
+
+.wpigsfaa_redwine {
+	border: 1px solid #212121;
+	padding: 30px;
+	display: flex;
+	flex-flow: wrap;
+	justify-content: center;
+	background-color: #ffffff;
+	min-width: 300px;
+
+}
+
+.wpigsfaa_ac_img_box_redwine {
+	text-align:center;
+	width:200px;
+	min-width: 150px;
+}
+
+.wpigsfaa_ac_img_redwine img {
+	max-height:200px;
+}
+
+.wpigsfaa_ac_body_redwine {
+	margin-left: 10px;
+}
+
+.wpigsfaa_ac_price_redwine{
+	font-weight: bold;
+	color: #CD2653;
+	font-family: 'Helvetica' !important;
+	font-size: 1.1em;
+	text-transform: lowercase;
+	padding-top: 0.8em;
+	padding-bottom: 0.8em;
+}
+
+.wpigsfaa_redwine h5 {
+	margin: 0px !important;
+}
+
+
+.wpigsfaa_redwine h5 a{
+	text-decoration: none;
+	color: #212121;
+	font-family: 'Helvetica';
+
+}
+
+
+.wpigsfaa_redwine h5 a:hover {
+	color: #222222;
+}
+
+
+.wpigsfaa_ac_button_redwine {
+	background-color:#CD2653;
+	border:1px solid #222222;
+	display:block;
+	cursor:pointer;
+	color:#ffffff;
+	font-size:18px;
+	font-weight:bold;
+	padding:5px;
+	text-decoration:none;
+	text-align: center;
+}
+
+.wpigsfaa_ac_button_redwine:hover {
+	background-color: green;
+	border:1px solid #222222;
+	cursor:pointer;
+}
+
+
+.wpigsfaa_ac_logo_redwine img{
+	display: block !important;
+	text-align: center !important;
+	padding: 5px;
+	margin: auto;
+}
+
+.wpigsfaa_ac_logo_redwine a{
+	display: block !important;
+	text-align: center !important;
+}
+
+
+@media screen and (min-width: 680px) {
+    .wpigsfaa_redwine {
+      display: flex;
+      flex-flow: nowrap !important;
+      justify-content: center;
+    }
+  }
+
+
+/* END  RED WINE TEMPLATE */
+
+/* START CUSTOM 1 TEMPLATE */
+.wpigsfaa_custom1 {
+	border: 1px solid #212121;
+	padding: 30px;
+	display: flex;
+	flex-flow: wrap;
+	justify-content: center;
+	background-color: #ffffff;
+	min-width: 300px;
+
+}
+
+.wpigsfaa_ac_img_box_custom1 {
+	text-align:center;
+	width:200px;
+	min-width: 150px;
+}
+
+.wpigsfaa_ac_img_custom1 img {
+	max-height:200px;
+}
+
+.wpigsfaa_ac_body_custom1 {
+	margin-left: 10px;
+}
+
+.wpigsfaa_ac_price_custom1{
+	font-weight: bold;
+	color: #CD2653;
+	font-family: 'Helvetica' !important;
+	font-size: 1.1em;
+	text-transform: lowercase;
+	padding-top: 0.8em;
+	padding-bottom: 0.8em;
+}
+
+.wpigsfaa_custom1 h5 {
+	margin: 0px !important;
+}
+
+
+.wpigsfaa_custom1 h5 a{
+	text-decoration: none;
+	color: #212121;
+	font-family: 'Helvetica';
+
+}
+
+
+.wpigsfaa_custom1 h5 a:hover {
+	color: #222222;
+}
+
+
+.wpigsfaa_ac_button_custom1 {
+	background-color:#FFA724;
+	border:1px solid #222222;
+	display:block;
+	cursor:pointer;
+	color:#222222;
+	font-size:18px;
+	font-weight:bold;
+	padding:5px;
+	text-decoration:none;
+	text-align: center;
+}
+
+.wpigsfaa_ac_button_custom1:hover {
+	background-color: green;
+	border:1px solid #222222;
+	color:#ffffff;
+	cursor:pointer;
+}
+
+
+.wpigsfaa_ac_logo_custom1 img{
+	display: block !important;
+	text-align: center !important;
+	padding: 5px;
+	margin: auto;
+}
+
+.wpigsfaa_ac_logo_custom1 a{
+	display: block !important;
+	text-align: center !important;
+}
+
+
+@media screen and (min-width: 680px) {
+    .wpigsfaa_custom1 {
+      display: flex;
+      flex-flow: nowrap !important;
+      justify-content: center;
+    }
+  }
+
+/* END CUSTOM 1 TEMPLATE */
+
+
+/* START CUSTOM 2 TEMPLATE */
+.wpigsfaa_custom2 {
+	border: 1px solid #212121;
+	padding: 30px;
+	display: flex;
+	flex-flow: wrap;
+	justify-content: center;
+	background-color: #ffffff;
+	min-width: 300px;
+
+}
+
+.wpigsfaa_ac_img_box_custom2 {
+	text-align:center;
+	width:200px;
+	min-width: 150px;
+}
+
+.wpigsfaa_ac_img_custom2 img {
+	max-height:200px;
+}
+
+.wpigsfaa_ac_body_custom2 {
+	margin-left: 10px;
+}
+
+.wpigsfaa_ac_price_custom2{
+	font-weight: bold;
+	color: #CD2653;
+	font-family: 'Helvetica' !important;
+	font-size: 1.1em;
+	text-transform: lowercase;
+	padding-top: 0.8em;
+	padding-bottom: 0.8em;
+}
+
+.wpigsfaa_custom2 h5 {
+	margin: 0px !important;
+}
+
+
+.wpigsfaa_custom2 h5 a{
+	text-decoration: none;
+	color: #212121;
+	font-family: 'Helvetica';
+
+}
+
+
+.wpigsfaa_custom2 h5 a:hover {
+	color: #222222;
+}
+
+
+.wpigsfaa_ac_button_custom2 {
+	background-color:#FFA724;
+	border:1px solid #222222;
+	display:block;
+	cursor:pointer;
+	color:#222222;
+	font-size:18px;
+	font-weight:bold;
+	padding:5px;
+	text-decoration:none;
+	text-align: center;
+}
+
+.wpigsfaa_ac_button_custom2:hover {
+	background-color: green;
+	border:1px solid #222222;
+	color:#ffffff;
+	cursor:pointer;
+}
+
+
+.wpigsfaa_ac_logo_custom2 img{
+	display: block !important;
+	text-align: center !important;
+	padding: 5px;
+	margin: auto;
+}
+
+.wpigsfaa_ac_logo_custom2 a{
+	display: block !important;
+	text-align: center !important;
+}
+
+
+@media screen and (min-width: 680px) {
+    .wpigsfaa_custom2 {
+      display: flex;
+      flex-flow: nowrap !important;
+      justify-content: center;
+    }
+  }
+
+  /* END CUSTOM 2 TEMPLATE */
+
+
+/* START CUSTOM 3 TEMPLATE */
+.wpigsfaa_custom3 {
+	border: 1px solid #212121;
+	padding: 30px;
+	display: flex;
+	flex-flow: wrap;
+	justify-content: center;
+	background-color: #ffffff;
+	min-width: 300px;
+
+}
+
+.wpigsfaa_ac_img_box_custom3 {
+	text-align:center;
+	width:200px;
+	min-width: 150px;
+}
+
+.wpigsfaa_ac_img_custom3 img {
+	max-height:200px;
+}
+
+.wpigsfaa_ac_body_custom3 {
+	margin-left: 10px;
+}
+
+.wpigsfaa_ac_price_custom3{
+	font-weight: bold;
+	color: #CD2653;
+	font-family: 'Helvetica' !important;
+	font-size: 1.1em;
+	text-transform: lowercase;
+	padding-top: 0.8em;
+	padding-bottom: 0.8em;
+}
+
+.wpigsfaa_custom3 h5 {
+	margin: 0px !important;
+}
+
+
+.wpigsfaa_custom3 h5 a{
+	text-decoration: none;
+	color: #212121;
+	font-family: 'Helvetica';
+
+}
+
+
+.wpigsfaa_custom3 h5 a:hover {
+	color: #222222;
+}
+
+
+.wpigsfaa_ac_button_custom3 {
+	background-color:#FFA724;
+	border:1px solid #222222;
+	display:block;
+	cursor:pointer;
+	color:#222222;
+	font-size:18px;
+	font-weight:bold;
+	padding:5px;
+	text-decoration:none;
+	text-align: center;
+}
+
+.wpigsfaa_ac_button_custom3:hover {
+	background-color: green;
+	border:1px solid #222222;
+	color:#ffffff;
+	cursor:pointer;
+}
+
+
+.wpigsfaa_ac_logo_custom3 img{
+	display: block !important;
+	text-align: center !important;
+	padding: 5px;
+	margin: auto;
+}
+
+.wpigsfaa_ac_logo_custom3 a{
+	display: block !important;
+	text-align: center !important;
+}
+
+
+@media screen and (min-width: 680px) {
+    .wpigsfaa_custom3 {
+      display: flex;
+      flex-flow: nowrap !important;
+      justify-content: center;
+    }
+  }
+
+/* END CUSTOM 3 TEMPLATE */
+
+
